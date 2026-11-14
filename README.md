@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `Sweather/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/Sweather) (private). This repository is archived and kept for its history.
+
 # Worn
 
 Weather by wardrobe: instead of a forecast, the app tells you what to wear, with a daily outfit memo, an hourly wardrobe strip and city search.
